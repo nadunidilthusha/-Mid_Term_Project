@@ -1,6 +1,6 @@
 # Ceylon Bookstore App  
 
-A simple **Flutter** bookstore app that displays a list of books with **title, author, cover image, and price**. Users can tap on a book to view its details.  
+Ceylon Bookstore is a simple Flutter-based mobile application that allows users to browse a list of books, view their details, and add them to a shopping cart. The app displays a collection of books with their titles, authors, prices, and cover images.
 
 ##  Features  
 - **Scrollable ListView** displaying books  
